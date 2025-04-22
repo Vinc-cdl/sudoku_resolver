@@ -1,6 +1,7 @@
 # Solveur de Sudoku en Python
 ## 🧩 Règles du Sudoku
 > Le Sudoku est un jeu de réflexion qui se joue sur une grille de 9x9 cases, divisée en neuf sous-blocs de 3x3.
+
 Le but est de remplir la grille avec des chiffres de 1 à 9 en respectant les contraintes suivantes :
 - Chaque ligne doit contenir tous les chiffres de 1 à 9, sans répétition.
 - Chaque colonne doit contenir tous les chiffres de 1 à 9, sans répétition.
@@ -10,6 +11,7 @@ Une grille de départ propose certains chiffres déjà placés ; le reste des 
 
 ## ⚙️ Fonctionnement du programme
 > Ce programme résout n'importe quelle grille de Sudoku valide en utilisant un algorithme de backtracking (retour sur trace).
+
 Voici comment il fonctionne, étape par étape :
 
 1. Recherche de la solution (fonction principale)
