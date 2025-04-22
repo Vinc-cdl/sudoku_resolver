@@ -5,6 +5,7 @@ Le but est de remplir la grille avec des chiffres de 1 à 9 en respectant les co
 - Chaque ligne doit contenir tous les chiffres de 1 à 9, sans répétition.
 - Chaque colonne doit contenir tous les chiffres de 1 à 9, sans répétition.
 - Chaque bloc 3x3 doit contenir tous les chiffres de 1 à 9, sans répétition.
+
 Une grille de départ propose certains chiffres déjà placés ; le reste des cases doit être complété par le joueur (ou le programme !).
 
 ⚙️ Fonctionnement du programme
